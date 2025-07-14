@@ -4,4 +4,6 @@
 ##  **Parte 1: Aplicación CRUD y Django**
 1. ¿Qué es un CRUD  y cuál es su propósito en el desarrollo de aplicaciones web?<br>
    Es un acronimo que representa las operaciones básicas que pueden realizar dobre los datos:
-   C = Create , R = Read, U = Update, D = Delete 
+   C = Create , R = Read, U = Update, D = Delete .<br>
+   Su propósito es manejar datos , diseñar interfaces, organización del CRUD 
+   
