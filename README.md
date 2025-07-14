@@ -3,7 +3,7 @@
 
 ##  **Parte 1: Aplicación CRUD y Django**
 **1. ¿Qué es un CRUD  y cuál es su propósito en el desarrollo de aplicaciones web?** <br><br>
-   Es un acrÓnimo que representa las operaciones básicas que pueden realizar dobre los datos:
+   Es un acrónimo que representa las operaciones básicas que pueden realizar dobre los datos:
    * **C** = Create 
    * **R** = Read
    * **U** = Update
@@ -35,13 +35,13 @@
  **3. ¿Cómo se estructura un proyecto en Django? Explicar brevemente el rol de los 
     modelos, vistas, templates y URLs.**  
     Cuando creas un proyecto en **Django** se divide en **modulos(apps)** y cada app tiene un componente         clave.<br>. Django tiene los siguientes componentes
-    * **Modelos:** 
+    * **Modelos**:
        Definen los datos que se guardan en la base de datos.(Una entidad con sus atributos)
-    * **Vistas:** 
+    * **Vistas**:
        Procesan la logica y deciden que mostrar. (Mostrar los productos disponibles)
-    * **Templates:** 
+    * **Templates**: 
        Son las páginas HTML que ve el usuario (Una pagina con fotos, precios de los productos)
-    * **URLs:** 
+    * **URLs**: 
        Conectan direcciones web con vistas (/productos/ muestra la lista de productos)
    
    
