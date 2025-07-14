@@ -16,7 +16,7 @@
    una cuenta, agregar productos, READ  navegar por productos, lees descripciones, etc.
    Ademas te permite UPDATE , cambiar tu direccion, modificar el carrito y hacer un DELETE, 
    eliminar productos de un carrito, cancelar pedidos, etc. <br><br>
-**1. ¿Qué es un CRUD  y cuál es su propósito en el desarrollo de aplicaciones web?** <br><br> 
+**2. ¿Qué son los patrones  de arquitectura en desarrollo de software?** <br><br> 
    
    
    
