@@ -54,14 +54,14 @@
     El doble %% se convierte en un solo % cuando se muestra.<br>
     Ex.<br>
     mensaje = "Descuento del 20%%"<br><br>
-**4. ¿Cuál es el flujo de datos entre un formulario HTML y la base de datos en Django?**<br>
-    Primero: el usuario introduce los datos(nombre, email , dirección) y luego damos click a Enviar 
+**4. ¿Cuál es el flujo de datos entre un formulario HTML y la base de datos en Django?**<br><br>
+    **Primero:** el usuario introduce los datos(nombre, email , dirección) y luego damos click a Enviar 
     y se genera un peticion **POST**.<br>
-    Segundo: Django recibe esta informacion en una **vista** que maneja este formulario y crea una<br>           instancia del **formulario Django** (ModelForm)<br>
-    Tercero:El formulario verifica si los datos son válidos. Revisa formatos, campos obligatorios, etc.
-    Cuarto: Si los datos son válidos, Django guarda la información , Django traduce este paso a una 
-    instruccion SQL que inserta el registro en la base de datos.
-    Quinta: Muestra un mensaje de exito o presenta una nueva vista.
+    **Segundo:** Django recibe esta informacion en una **vista** que maneja este formulario y crea una<br>           instancia del **formulario Django** (ModelForm).<br>
+    **Tercero:** El formulario verifica si los datos son válidos. Revisa formatos, campos obligatorios, etc.     <br>
+    **Cuarto:** Si los datos son válidos, Django guarda la información , Django traduce este paso a una 
+    instruccion SQL que inserta el registro en la base de datos.<br>
+    **Quinta:** Muestra un mensaje de exito o presenta una nueva vista.
     
 
    
