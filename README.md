@@ -65,8 +65,8 @@
 **5. ¿Qué herramientas o comandos ofrece Django para facilitar el desarrollo de un 
 CRUD, para qué es cada una? (Por ejemplo: startapp, makemigrations, 
 migrate, runserver, ModelForm, admin, etc.)**<br>
-     Django te ofrece comandos para crear un sistema CRUD(Crear, Leer, Actualizar y Eliminar)<br>
-     **startapp:** Crea una estructura básica de una nueva aplicación Django
+     Django te ofrece comandos para crear un sistema CRUD(Crear, Leer, Actualizar y Eliminar)<br><br>
+     **Startapp:** Crea una estructura básica de una nueva aplicación Django
     
 
    
