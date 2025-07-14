@@ -66,12 +66,12 @@
 CRUD, para qué es cada una? (Por ejemplo: startapp, makemigrations, 
 migrate, runserver, ModelForm, admin, etc.)**<br>
      Django te ofrece comandos para crear un sistema CRUD(Crear, Leer, Actualizar y Eliminar)<br><br>
-     **Startapp:** Crea una estructura básica de una nueva aplicación Django<br>
-     **makemigrations:** Detecta cambios en tus modelos y genera archivos de migración(definen la BD)<br>
-     **migrate:** Aplica las migraciones a la base de datos para crear o actualizar tablas 
-     **runserver:** Inicia el servidor local para que puedas ver y probar tu app en el navegador 
-     **ModelForm:** Crea formularios automaticamente basados en modelos para facilitar el CRUD.
-     **admin:**: Interfaz administrativa lista para usar, permite gestionar tus modelos facilmente
+   *  **Startapp:** Crea una estructura básica de una nueva aplicación Django<br>
+   *  **makemigrations:** Detecta cambios en tus modelos y genera archivos de migración(definen la BD)<br>
+   *  **migrate:** Aplica las migraciones a la base de datos para crear o actualizar tablas <br>
+   *  **runserver:** Inicia el servidor local para que puedas ver y probar tu app en el navegador <br>
+   *  **ModelForm:** Crea formularios automaticamente basados en modelos para facilitar el CRUD.<br>
+   *  **admin:**: Interfaz administrativa lista para usar, permite gestionar tus modelos facilmente<br>
     
 
    
