@@ -55,6 +55,8 @@
     Ex.<br>
     mensaje = "Descuento del 20%%"<br><br>
 **4. ¿Cuál es el flujo de datos entre un formulario HTML y la base de datos en Django?**
+    Primero: el usuario introduce los datos(nombre, email , dirección) y luego damos click a Enviar 
+    y se genera un peticion **POST**
 
    
  
