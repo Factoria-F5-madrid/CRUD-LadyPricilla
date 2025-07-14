@@ -1,1 +1,1 @@
-# CRUD-LadyPricilla
+# Investigación sobre Django
