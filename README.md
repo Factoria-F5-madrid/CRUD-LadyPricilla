@@ -47,8 +47,12 @@
  <p align="left">
      <img src="image.png" alt="Estructura de Django" width="300"/>
  </p>
- **¿Para qué se usa el signo “%%” en los templates?**
-
+ 
+   **¿Para qué se usa el signo “%%” en los templates?**
+    Se usa para **Evitar errores** cuando el simbolo  % podria confuncdirse con instrucciones de formato.
+    El doble %% se convierte en un solo % cuando se muestra.
+    Ex.
+    mensaje = "Descuento del 20%%"
 
    
  
