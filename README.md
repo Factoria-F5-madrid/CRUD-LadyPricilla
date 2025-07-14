@@ -19,8 +19,8 @@
 **2. ¿Qué son los patrones  de arquitectura en desarrollo de software?** <br><br> 
    Es una guia a seguir(ex. planos) para construir nuestras aplicaciones de la manera más organizada sea más facil de
    <br> 
-   mantener  en un futuro.<br>
-   ¿Qué es el patrón MVC (Modelo–Vista–Controlador)?  
+   mantener  en un futuro.<br><br>
+  ** ¿Qué es el patrón MVC (Modelo–Vista–Controlador)?**  
    
    
    
