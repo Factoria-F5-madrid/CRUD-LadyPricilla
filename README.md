@@ -46,8 +46,8 @@
   
  <p align="left">
      <img src="image.png" alt="Estructura de Django" width="300"/>
- </p>
- * ** ¿Para qué se usa el signo “%%” en los templates?**
+ </p><br>
+ * **¿Para qué se usa el signo “%%” en los templates?**
 
 
    
