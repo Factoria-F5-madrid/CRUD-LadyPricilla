@@ -54,6 +54,7 @@
     El doble %% se convierte en un solo % cuando se muestra.<br>
     Ex.<br>
     mensaje = "Descuento del 20%%"
+**4. ¿Cuál es el flujo de datos entre un formulario HTML y la base de datos en Django?**
 
    
  
