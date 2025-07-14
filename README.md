@@ -32,7 +32,8 @@
     **¿Cuál de estos dos patrones se usa en Django?**<br>
      Django utiliza el **MVT** tu defines el modelo , la vista( lógica ) y el template( con HTML) y Django conecta 
      todo.
-     
+ **3. ¿Cómo se estructura un proyecto en Django? Explicar brevemente el rol de los 
+    modelos, vistas, templates y URLs.**  
    
    
    
