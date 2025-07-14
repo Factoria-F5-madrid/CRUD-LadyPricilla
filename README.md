@@ -28,7 +28,10 @@
      y la   manera como se muestran los datos al usuario (Template). Es utilizado por el framework  Django<br>
     **Diferencias entre MVC y MVT**<br>
      En MVC, el **Controlador** es quien maneja la lógica de la aplicación y decide que mostrar.
-     Mientras que en  **MVT** la lógica la maneja la **Vista**  y el **Template** se encargade mostrar los datos.
+     Mientras que en  **MVT** la lógica la maneja la **Vista**  y el **Template** se encargade mostrar los datos.<br>
+    **¿Cuál de estos dos patrones se usa en Django?**<br>  
+     Django utiliza el **MVT** tu defines el modelo , la vista( lógica ) y el template( con HTML) y Django conecta 
+     todo.
      
    
    
