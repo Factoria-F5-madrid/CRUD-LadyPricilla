@@ -45,7 +45,7 @@
        Conectan direcciones web con vistas (/productos/ muestra la lista de productos).
   
  <p align="left">
-     <img src="image.png" alt="Estructura de Django" width="200"/>
+     <img src="image.png" alt="Estructura de Django" width="300"/>
  </p>
 
 
