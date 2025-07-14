@@ -51,7 +51,7 @@
  
    **¿Para qué se usa el signo “%%” en los templates?** <br>
     Se usa para **Evitar errores** cuando el simbolo  % podria confuncdirse con instrucciones de formato.
-    El doble %% se convierte en un solo % cuando se muestra.
+    El doble %% se convierte en un solo % cuando se muestra.<br>
     Ex.<br>
     mensaje = "Descuento del 20%%"
 
