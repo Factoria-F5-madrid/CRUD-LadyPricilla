@@ -10,7 +10,7 @@
    * **D** = Delete
       
    Su propósito es manejar datos(base datos) , diseñar interfaces(formularios, etc), organización
-   del código(crear APIS).
+   del código(crear APIS).<br>
    Ejemplo:
    La app de Amazon que usamso en el mobil es un ejemplo de un CRUD ya que te permite CREATE una 
    cuenta, agregar productos, READ  navegar por productos, lees descripciones, etc.
