@@ -12,8 +12,9 @@
    Su propósito es manejar datos(base datos) , diseñar interfaces(formularios, etc), organización
    del código(crear APIS).<br>
    **Ejemplo:**<br>
-   La app de Amazon que usamso en el mobil es un ejemplo de un CRUD ya que te permite CREATE
-   una cuenta, agregar productos, READ  navegar por productos, lees descripciones, etc.
+   La app de Amazon que usamso en el mobil es un ejemplo de un CRUD ya que te permite 
+   CREATE  una cuenta, agregar productos, READ  navegar por productos, lees descripciones,
+   etc.
    Ademas te permite UPDATE , cambiar tu direccion, modificar el carrito y hacer un DELETE, 
    eliminar productos de un carrito, cancelar pedidos, etc. <br><br>
 **2. ¿Qué son los patrones  de arquitectura en desarrollo de software?** <br><br> 
