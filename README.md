@@ -34,7 +34,8 @@
      todo.<br><br>
  **3. ¿Cómo se estructura un proyecto en Django? Explicar brevemente el rol de los 
     modelos, vistas, templates y URLs.**  
-    Cuando creas un proyecto en **Django** se divide en **modulos(apps)** y cada app tiene un componente         clave.<br> Django tiene los siguientes componentes
+    Cuando creas un proyecto en **Django** se divide en **modulos(apps)** y cada app tiene un componente clave.<br> 
+    Django tiene los siguientes componentes
  * **Modelos**:
        Definen los datos que se guardan en la base de datos.(Una entidad con sus atributos)
  * **Vistas**:
