@@ -17,7 +17,7 @@
    etc.Ademas te permite UPDATE , cambiar tu direccion,<br> modificar el carrito y hacer 
    un DELETE, eliminar productos de un carrito, cancelar pedidos, etc. <br><br>
 **2. ¿Qué son los patrones  de arquitectura en desarrollo de software?** <br><br> 
-   Es una guia a seguir(ex. planos) para construir nuestras aplicaciones de la manera más 
+   Es una guia a seguir(ex. planos) para construir nuestras aplicaciones de la manera más<br> 
    organizada, sea más facil de mantener y escalar 
    
    
