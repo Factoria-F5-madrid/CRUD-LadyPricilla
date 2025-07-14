@@ -54,7 +54,7 @@
     El doble %% se convierte en un solo % cuando se muestra.<br>
     Ex.<br>
     mensaje = "Descuento del 20%%"<br><br>
-**4. ¿Cuál es el flujo de datos entre un formulario HTML y la base de datos en Django?**
+**4. ¿Cuál es el flujo de datos entre un formulario HTML y la base de datos en Django?**<br>
     Primero: el usuario introduce los datos(nombre, email , dirección) y luego damos click a Enviar 
     y se genera un peticion **POST**
 
