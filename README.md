@@ -20,6 +20,7 @@
    Es una guia a seguir(ex. planos) para construir nuestras aplicaciones de la manera más organizada sea más facil de
    <br> 
    mantener  en un futuro.
+   ¿Qué es el patrón MVC (Modelo–Vista–Controlador)?  
    
    
    
