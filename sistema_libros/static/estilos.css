@@ -1,5 +1,5 @@
 body {
-    font-family: 'Dancing Script';
+    font-family: 'Dancing Script', cursive;
     background-color: #f9f9f9;
     margin: 20px;
 }
@@ -12,10 +12,6 @@ h1 {
     color: #6C2DC7; /* Puedes ajustar el color si quieres más contraste */
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
 }
-
-
-
-
 a {
     text-decoration: none;
     color: #3a423f;
@@ -24,4 +20,51 @@ a {
 
 a:hover {
     color: #40916c;
+}
+
+.detalle-libro {
+    background-color: #f2ebf9;
+    border: 2px solid #d6c3e6;
+    border-radius: 16px;
+    padding: 30px;
+    max-width: 650px;
+    margin: 50px auto;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    font-family: 'Dancing Script', cursive;
+}
+
+.detalle-libro h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+    color: #6C2DC7;
+    text-align: center;
+    margin-bottom: 25px;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.1);
+}
+
+.contenido-libro p {
+    background-color: #ffffff;
+    border: 1px solid #dfceed;
+    border-radius: 10px;
+    padding: 12px 18px;
+    margin-bottom: 12px;
+    font-size: 27px;
+    color: #3a423f;
+}
+
+.boton-volver {
+    display: block;
+    width: fit-content;
+    margin: 30px auto 0;
+    padding: 10px 20px;
+    background-color: #6C2DC7;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.boton-volver:hover {
+    background-color: #5825a3;
 }
