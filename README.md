@@ -73,7 +73,7 @@ migrate, runserver, ModelForm, admin, etc.)**<br>
    *  **ModelForm:** Crea formularios automaticamente basados en modelos para facilitar el CRUD.<br>
    *  **admin:**: Interfaz administrativa lista para usar, permite gestionar tus modelos facilmente<br><br>
 **6. ¿Cómo funciona el Admin de Django?**<br>
- Es como un asistente personal que te ayuda a gestionar tus datos(tu base de datos) desde una interfaz web<br> sin escribir codigo de interfaz .Es como tenetr un panel de control para tus modelos 
+ Es como un asistente personal que te ayuda a gestionar tus datos(tu base de datos) desde una interfaz       web<br> sin escribir codigo de interfaz .Es como tenetr un panel de control para tus modelos 
    
  
    
