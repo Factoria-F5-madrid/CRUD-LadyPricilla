@@ -53,7 +53,7 @@
     Se usa para **Evitar errores** cuando el simbolo  % podria confuncdirse con instrucciones de formato.
     El doble %% se convierte en un solo % cuando se muestra.<br>
     Ex.<br>
-    mensaje = "Descuento del 20%%"
+    mensaje = "Descuento del 20%%"<br>
 **4. ¿Cuál es el flujo de datos entre un formulario HTML y la base de datos en Django?**
 
    
