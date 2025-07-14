@@ -1,14 +1,24 @@
+
 <!DOCTYPE html>
 <html>
 <head>
     <title>Lista de Libros</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'estilos.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+
 </head>
 <body>
-    <h1>Lista de Libros</h1>
+    <h1 class="">Lista de Libros</h1>
     <ul>
     {% for libro in libros %}
         <li><a href="{% url 'detalle_libro' libro.id %}">{{ libro.titulo }}</a></li>
     {% endfor %}
     </ul>
+    {% load static %}
+        <img src="{% static 'images/libreria2.jpg' %}" 
+        alt="Librería" 
+        style="position: relative; float: right; top: -170px; right: 10px; margin-left: 10px;">
+
 </body>
 </html>

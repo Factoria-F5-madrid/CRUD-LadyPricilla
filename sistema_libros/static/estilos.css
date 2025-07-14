@@ -1,0 +1,27 @@
+body {
+    font-family: 'Dancing Script';
+    background-color: #f9f9f9;
+    margin: 20px;
+}
+
+h1 {
+    color: #5a2d82;
+    
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: #6C2DC7; /* Puedes ajustar el color si quieres más contraste */
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: #2d6a4f;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #40916c;
+}
