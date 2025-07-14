@@ -25,7 +25,7 @@
     **¿Qué es el patrón MVT (Modelo–Vista–Template)?**  
      Es una forma de construir aplicaciones web. Se divide en tres partes:logica datos(modelo), logica de 
      presentación(vista)<br> 
-     y la   manera como se muestran los datos al usuario (Template).Es utilizado por el framework: Django<br>
+     y la   manera como se muestran los datos al usuario (Template). Es utilizado por el framework: Django<br>
     **Diferencias entre MVC y MVT**
      
    
