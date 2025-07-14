@@ -43,10 +43,10 @@
        Son las páginas HTML que ve el usuario (Una pagina con fotos, precios de los productos)
  * **URLs**: 
        Conectan direcciones web con vistas (/productos/ muestra la lista de productos).
-   ![Estructura de Django](estructura.jpg)
-   <p align="center">
-      <img src="images/estructura-django.jpg"  width="200"/>
-   </p>
+  
+ <p align="center">
+     <img src="estructura.jpg" alt="Estructura de Django" width="200"/>
+ </p>
 
 
    
