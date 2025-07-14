@@ -9,7 +9,8 @@
 
 </head>
 <body>
-    <h1 class="">Lista de Libros</h1>
+    
+    <h1 >Lista de Libros</h1>
     <ul>
     {% for libro in libros %}
         <li><a href="{% url 'detalle_libro' libro.id %}">{{ libro.titulo }}</a></li>
@@ -18,7 +19,7 @@
     {% load static %}
         <img src="{% static 'images/libreria2.jpg' %}" 
         alt="Librería" 
-        style="position: relative; float: right; top: -200px; right: 20px; margin-left: 10px;">
+        style="position: relative; float: right; top: -230px; right: 20px; margin-left: 10px;">
 
 </body>
 </html>

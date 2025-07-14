@@ -1,41 +1,42 @@
 body {
     font-family: 'Dancing Script', cursive;
-    background-color: #f9f9f9;
+    background-color:#f6f2fb;
     margin: 20px;
+   
 }
-
 h1 {
     color: #5a2d82;
-    
     font-family: 'Dancing Script', cursive;
     font-size: 50px;
-    color: #6C2DC7; /* Puedes ajustar el color si quieres más contraste */
+    color: #6e28d1; /* Puedes ajustar el color si quieres más contraste */
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+    
 }
 a {
     text-decoration: none;
     color: #3a423f;
-    font-size: 22px;
+    font-size: 28px;
+    
 }
+
 
 a:hover {
     color: #40916c;
 }
-
 .detalle-libro {
-    background-color: #f2ebf9;
+    background-color: #f5edfe;
     border: 2px solid #d6c3e6;
     border-radius: 16px;
     padding: 30px;
     max-width: 650px;
     margin: 50px auto;
     box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script', cursive
 }
 
 .detalle-libro h1 {
     font-family: 'Dancing Script', cursive;
-    font-size: 48px;
+    font-size: 40px;
     color: #6C2DC7;
     text-align: center;
     margin-bottom: 25px;
@@ -43,13 +44,13 @@ a:hover {
 }
 
 .contenido-libro p {
-    background-color: #ffffff;
-    border: 1px solid #dfceed;
+    /*background-color: #ffffff;*/
+    border: 1px solid #d6c3e6;
     border-radius: 10px;
     padding: 12px 18px;
     margin-bottom: 12px;
-    font-size: 27px;
-    color: #3a423f;
+    font-size: 20px;
+    color: #333;
 }
 
 .boton-volver {
