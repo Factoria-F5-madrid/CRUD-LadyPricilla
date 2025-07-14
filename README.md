@@ -42,7 +42,9 @@
  * **Templates**: 
        Son las páginas HTML que ve el usuario (Una pagina con fotos, precios de los productos)
  * **URLs**: 
-       Conectan direcciones web con vistas (/productos/ muestra la lista de productos)
+       Conectan direcciones web con vistas (/productos/ muestra la lista de productos).
+   
+ 
    
    
    .
