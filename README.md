@@ -27,6 +27,8 @@
      presentación(vista)<br> 
      y la   manera como se muestran los datos al usuario (Template). Es utilizado por el framework: Django<br>
     **Diferencias entre MVC y MVT**
+     En MVC, el **Controlador** es quien maneja la lógica de la aplicacion y decide que mostrar.
+     Mientras que en MVT la lógica la amneja la **Vista**
      
    
    
