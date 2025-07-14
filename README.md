@@ -23,7 +23,7 @@
    **¿Qué es el patrón MVC (Modelo–Vista–Controlador)?**  
       Divide la app en tres partes: datos(modelo), pantalla(vista) y vista lógica(controlador)<br>
     **¿Qué es el patrón MVT (Modelo–Vista–Template)?**  
-     Es una forma de construir aplicaciones web.Se divide en tres partes:logica datos(modelo), logica de 
+     Es una forma de construir aplicaciones web. Se divide en tres partes:logica datos(modelo), logica de 
      presentación(vista) y la   manera como se muestran los datos al usuario (Template)
      
    
