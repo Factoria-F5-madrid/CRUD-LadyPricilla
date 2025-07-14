@@ -71,9 +71,9 @@ migrate, runserver, ModelForm, admin, etc.)**<br>
    *  **migrate:** Aplica las migraciones a la base de datos para crear o actualizar tablas <br>
    *  **runserver:** Inicia el servidor local para que puedas ver y probar tu app en el navegador <br>
    *  **ModelForm:** Crea formularios automaticamente basados en modelos para facilitar el CRUD.<br>
-   *  **admin:**: Interfaz administrativa lista para usar, permite gestionar tus modelos facilmente<br>
-    
-
+   *  **admin:**: Interfaz administrativa lista para usar, permite gestionar tus modelos facilmente<br><br>
+ **6. ¿Cómo funciona el Admin de Django?**
+ Es como un asistente personal que te ayuda a gestionar tus datos(tu base de datos) desde una interfaz web<br> sin escribir codigo de interfaz .Es como tenetr un panel de control para tus modelos 
    
  
    
