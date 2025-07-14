@@ -44,7 +44,7 @@
  * **URLs**: 
        Conectan direcciones web con vistas (/productos/ muestra la lista de productos).
   
- <p align="center">
+ <p align="left">
      <img src="estructura.jpg" alt="Estructura de Django" width="200"/>
  </p>
 
