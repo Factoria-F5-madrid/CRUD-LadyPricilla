@@ -7,7 +7,7 @@
     *  **C** = Create 
     *  **R** = Read
     *  **U** = Update
-    *  **D** = Delete <br>
+    *  **D** = Delete 
    Su propósito es manejar datos , diseñar interfaces, organización del CRUD <br>
    
    
